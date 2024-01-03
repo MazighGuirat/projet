@@ -1,3 +1,6 @@
+// Guirat Mazigh G01
+// Projet de SE TP 
+
 Réponses aux questions :
 
 Q1: Quelles sont les structures de données à utiliser ?
